@@ -196,6 +196,7 @@ namespace DrivingSchoolSystem
             this.Controls.Add(this.button8);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.dataGridView1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "ManageCourses";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

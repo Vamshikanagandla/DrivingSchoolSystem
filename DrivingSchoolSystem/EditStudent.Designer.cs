@@ -323,6 +323,7 @@ namespace DrivingSchoolSystem
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.button7);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "EditStudent";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
